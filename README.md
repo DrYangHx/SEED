@@ -4,9 +4,10 @@
 
 This repository provides the full analysis pipeline and datasets used in our study:  
 **“SEED: A Novel Method for Identifying Cancer Prognosis Target Genes Without Control Samples.”**
+
 The dataset can be downloaded from Baidu Netdisk:
-Link: https://pan.baidu.com/s/1GuuHmOaitdvjyB3QHcd-Xw
-Extraction Code: 1234
+- Link: https://pan.baidu.com/s/1GuuHmOaitdvjyB3QHcd-Xw
+- Extraction Code: 1234
 ## 📁 Repository Structure
 
 The GitHub repository contains **four core modules**:
