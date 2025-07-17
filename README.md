@@ -25,7 +25,7 @@ The SEED method handles three types of clinical variables:
   Analyzed using Cox regression, a semi-parametric model that accounts for survival time and event occurrence. This is the preferred method for analyzing time-to-event variables such as overall survival (OS) or progression-free survival (PFS), which also involve censoring considerations.
 
 - **Unordered Categorical Variables**  
-  Analyzed using Logistic regression, a probabilistic, nonlinear regression model designed specifically for categorical outcomes. It is the standard approach for analyzing unordered categorical dependent variables (e.g., objective response rate [ORR], viral positivity/negativity) by modeling binary or nominal outcomes through log-odds transformations.
+  Analyzed using Logistic regression, a probabilistic, nonlinear regression model designed specifically for categorical outcomes. It is the standard approach for analyzing unordered categorical dependent variables (e.g., objective response rate (ORR), viral positivity/negativity) by modeling binary or nominal outcomes through log-odds transformations.
 
 ## 2. Gene Expression Normalization
 
